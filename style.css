@@ -1,0 +1,12 @@
+#start{
+background-color:crimson;    
+width: 100px;
+}
+
+#label{
+ color:rgba(29, 156, 240, 0.608);   
+ font-size: 50px;
+}
+body{
+background: linear-gradient(rgb(0, 104, 239),rgb(32, 237, 1),rgb(37, 225, 112),rgb(115, 16, 222));        
+}
